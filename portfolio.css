@@ -1,0 +1,24 @@
+body {
+  background-color: #3fd1c5;
+}
+
+section {
+  width: 800px;
+  margin: 40px 80px 40px 80px;
+  overflow: auto;
+  clear: both;
+  color: black;
+  background: #fff;
+}
+
+.title {
+  color: #3fd1ca;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(236, 236, 236);
+  border-top: 5px solid black;
+  color: black;
+}
