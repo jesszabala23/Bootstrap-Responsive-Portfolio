@@ -4,6 +4,7 @@
 
 body {
   background-color: #3fd1c5;
+  font-family: 'Jost', sans-serif;
 }
 
 section {
@@ -16,6 +17,7 @@ section {
 
 .title {
   color: #3fd1ca;
+  font-size: 2.5rem;
 }
 
 hr {

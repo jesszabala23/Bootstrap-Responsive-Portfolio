@@ -1,5 +1,6 @@
 body {
     background-color: #3fd1c5;
+    font-family: 'Jost', sans-serif;
 }
 
 section {
@@ -22,14 +23,10 @@ hr.line {
     font-size: 2.5rem;
   }
 
+  p{
+    text-indent: 50px;
+  }
+
 .selfie {
     float: left;
 }
-
-footer {
-    text-align: center;
-    padding: 20px;
-    background-color: rgb(236, 236, 236);
-    border-top: 5px solid black;
-    color: black;
-  }
