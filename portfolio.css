@@ -10,7 +10,7 @@ body {
 section {
   max-width:800px;
   margin: auto;
-  overflow: auto;
+  overflow: hidden;
   color: black;
   background: #fff;
 }
@@ -80,4 +80,8 @@ footer {
   background-color: rgb(236, 236, 236);
   border-top: 5px solid black;
   color: black;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  position: fixed;
 }

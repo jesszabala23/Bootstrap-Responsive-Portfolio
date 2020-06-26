@@ -27,12 +27,16 @@ hr {
     text-indent: 50px;
   }
 
-footer {
+  footer {
     text-align: center;
     padding: 20px;
     background-color: rgb(236, 236, 236);
     border-top: 5px solid black;
     color: black;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
   }
 
 .selfie {
