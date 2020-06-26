@@ -3,19 +3,30 @@ body {
 }
 
 section {
-    width: 800px;
-    margin: 40px 80px 40px 80px;
+    max-width:800px;
+    margin: auto;
+    border-top: 20px #3fd1c5;
     overflow: auto;
-    clear: both;
     color: black;
     background: #fff;
   }
 
-  .title {
+hr.line {
+  height: 5px;
+  border-radius: 10px;
+  background: linear-gradient(to right, #3fd1c5, white);
+}
+  
+.title {
     color: #3fd1ca;
+    font-size: 2.5rem;
   }
 
-  footer {
+.selfie {
+    float: left;
+}
+
+footer {
     text-align: center;
     padding: 20px;
     background-color: rgb(236, 236, 236);
