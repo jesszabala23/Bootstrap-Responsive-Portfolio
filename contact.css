@@ -35,3 +35,7 @@ footer {
   width: 100%;
   position: fixed;
 }
+
+.copyright {
+  font-size: 14px;
+}
